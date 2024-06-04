@@ -6,18 +6,17 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently studing software engineering and try to achieve my targets.
+- 🔭 I’m currently studying software engineering and trying to achieve my targets.
 
 - 🌱 I’m currently learning new technologies and everything I don't know.
   
-
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://tharushiwelarathna.github.io/MyProfile-v2.github.io/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://tharushiwelarathna.github.io/)**
 
 - 📫 How to reach me **nirmanitharushi1@gmail.com**
 
-- ⚡ Fun fact **I love to watch tv series.**
+- ⚡ Fun fact **I love to watch TV Series.**
   
 
 ## 🚀 Languages and Tools:
@@ -67,8 +66,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/tharushi-nirmani-welarathna/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.facebook.com/tharushi.nirmani.79"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
-
 
 </p>
 
