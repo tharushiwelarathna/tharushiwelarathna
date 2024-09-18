@@ -1,12 +1,9 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tharushi Welarathna</h1>
-<h3 align="center">I'm a Undergraduage student, developer, designer</h3>
 
 
 ## 🙋‍♂️ About Me
-
-- 🔭 I’m currently studying software engineering and trying to achieve my targets.
 
 - 🌱 I’m currently learning new technologies and everything I don't know.
   
@@ -14,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://tharushiwelarathna.github.io/)**
 
-- 📫 How to reach me **nirmanitharushi1@gmail.com**
+- 📫 How to reach me **welarathna.tharushi@gmail.com**
 
 - ⚡ Fun fact **I love to watch TV Series.**
   
